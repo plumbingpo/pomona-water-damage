@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pomonarestoration.com/sitemap.xml
